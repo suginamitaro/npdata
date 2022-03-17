@@ -10,7 +10,7 @@ Number Place Data 9x9 and 6x6
 次の行に行くようにして使ってくれ。
 6x6 のブロックは 3カラム2行の横長のブロックだと思ってくれ。
 
--hidden	hidden single
--locked  locked candidate
--tuple	naked pair, triple; hidden pair, triple
--xwing	X-wing
+*hidden	hidden single
+*locked  locked candidate
+*tuple	naked pair, triple; hidden pair, triple
+*xwing	X-wing
